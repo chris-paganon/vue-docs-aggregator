@@ -1,0 +1,9 @@
+[submodule "pinia"]
+	path = pinia
+	url = https://github.com/vuejs/pinia.git
+[submodule "router"]
+	path = router
+	url = https://github.com/vuejs/router.git
+[submodule "vuejs"]
+	path = vuejs
+	url = https://github.com/vuejs/docs.git

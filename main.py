@@ -13,8 +13,28 @@ def build_index():
       "base_url": "https://vuejs.org/guide"
     },
     {
+      "path": "vuejs/src/api",
+      "base_url": "https://vuejs.org/api"
+    },
+    {
       "path": "pinia/packages/docs/core-concepts",
       "base_url": "https://pinia.vuejs.org/core-concepts"
+    },
+    {
+      "path": "pinia/packages/docs/api",
+      "base_url": "https://pinia.vuejs.org/api"
+    },
+    {
+      "path": "pinia/packages/docs/cookbook",
+      "base_url": "https://pinia.vuejs.org/cookbook"
+    },
+    {
+      "path": "router/packages/docs/guide",
+      "base_url": "https://router.vuejs.org/guide"
+    },
+    {
+      "path": "router/packages/docs/api",
+      "base_url": "https://router.vuejs.org/api"
     }
   ]
 
